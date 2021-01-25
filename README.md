@@ -1,1 +1,1 @@
-# Arduino-Dual-Axis-Solar-Tracker
+# A Dual Axis Solar Tracker System.
